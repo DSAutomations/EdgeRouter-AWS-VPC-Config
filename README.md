@@ -1,4 +1,4 @@
-# EdgeRouter-AWS-VPN-Config
+# EdgeRouter-AWS-VPN-Static-Config
 Converts a generic AWS VPN config to a set of commands to execute on an Ubiquiti EdgeRouter
 
 Please note that this script is for configuring **static** routes, and is based on the oficial Ubiquiti guide: [EdgeRouter - IPsec Route-Based Site-to-Site VPN to AWS VPC (VTI over IKEv1/IPsec)](https://help.ubnt.com/hc/en-us/articles/115015979787-EdgeRouter-IPsec-Route-Based-Site-to-Site-VPN-to-AWS-VPC-VTI-over-IKEv1-IPsec-)
